@@ -1,4 +1,4 @@
-# -Samwelomwenga-<h1 align="center">Hi 👋, I'm Samwel Omwenga</h1>
+<h1 align="center">Hi 👋, I'm Samwel Omwenga</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samwelomwenga" alt="samwelomwenga" /></a> </p>
@@ -18,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samwelomwenga&show_icons=true&locale=en&layout=compact" alt="samwelomwenga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samwelomwenga&show_icons=true&locale=en" alt="samwelomwenga" /></p>
+
